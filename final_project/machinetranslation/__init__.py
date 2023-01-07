@@ -1,0 +1,4 @@
+"""
+    Module
+"""
+from . import translator
